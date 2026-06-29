@@ -1,0 +1,6 @@
+{
+  "name": "Deadline Hero AI",
+  "description": "An agentic, voice-negotiated productivity coach that schedules and breaks down your tasks, helping you finish instead of just planning.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
